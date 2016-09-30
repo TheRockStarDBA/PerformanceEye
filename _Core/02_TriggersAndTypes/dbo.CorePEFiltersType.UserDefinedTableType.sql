@@ -1,5 +1,3 @@
-USE [PerformanceEye]
-GO
 CREATE TYPE [dbo].[CorePEFiltersType] AS TABLE(
 	[FilterType] [tinyint] NOT NULL,
 	[FilterID] [int] NOT NULL,
