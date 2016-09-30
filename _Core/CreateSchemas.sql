@@ -1,5 +1,3 @@
-USE PerformanceEye 
-GO
 CREATE SCHEMA [CorePE] 
 GO
 CREATE SCHEMA [PerformanceEye]		--the "public" interface (e.g. views and such)
