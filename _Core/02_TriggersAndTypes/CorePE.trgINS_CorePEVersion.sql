@@ -1,5 +1,3 @@
-USE PerformanceEye
-GO
 CREATE TRIGGER [CorePE].[trgINS_CorePEVersion] ON [CorePE].[Version]
 
 FOR INSERT
