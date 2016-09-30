@@ -1,5 +1,3 @@
-USE PerformanceEye
-GO
 CREATE TRIGGER [CorePE].[trgDEL_CorePEVersion] ON [CorePE].[Version]
 
 FOR DELETE
